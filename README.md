@@ -7,8 +7,11 @@ BipedalWalker-v3 results:
 Episode | Scores | 100 Episode Average 
 --- | --- | --- 
 1 | -119.617239834469 | 283 
+--- | --- | --- 
+2 | -109.747544624979 |
 
-Ep Score            100 Episode score
+
+
 1 | -119.617239834469 | 
 --- | --- | ---
 2 | -109.747544624979 | 
