@@ -1,6 +1,6 @@
 # DDPGII
 
-next generation of DDPG
+stable and unbiased version of DDPG
 
 BipedalWalker-v3 results:
 
