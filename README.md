@@ -4,9 +4,9 @@ next generation of DDPG
 
 BipedalWalker-v3 results:
 
-Episode | #1 | #2 
+Episode | Scores | 100 Episode Average 
 --- | --- | --- 
-1 | 301 | 283 
+1 | -119.617239834469 | 283 
 
 Ep Score            100 Episode score
 1 | -119.617239834469 | 
